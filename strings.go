@@ -1,4 +1,4 @@
-package etherUtils
+package etherutils
 
 import (
 	"fmt"
